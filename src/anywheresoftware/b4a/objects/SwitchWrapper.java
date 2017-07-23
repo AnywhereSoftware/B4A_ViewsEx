@@ -24,7 +24,7 @@ import anywheresoftware.b4a.objects.collections.Map;
 @DesignerProperties(values = {
 	@Property(key="Checked", displayName="Checked", defaultValue="False", fieldType="Boolean")
 })
-@Version(1.21f)
+@Version(1.22f)
 public class SwitchWrapper extends ViewWrapper<Switch> implements DesignerCustomView{
 	@Override
 	public void DesignerCreateView(PanelWrapper base, LabelWrapper lw, Map props) {
